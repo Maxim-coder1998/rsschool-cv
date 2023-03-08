@@ -4,7 +4,7 @@
 
 # My Contact
 -  _Email_:maximilyan1998@gmail.com
--  _Vk_:[https://vk.com/vwiesm]
+-  _Vk_:<https://vk.com/vwiesm>
 -  _Telegram_: @vwiesm
 
 # About me
