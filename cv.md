@@ -1,11 +1,11 @@
 
 # My Name
-## Max _Bondarenko_
+### _Max Bondarenko_
 
 # My Contact
 -  _Email_:maximilyan1998@gmail.com
--  _Vk_:[(https://vk.com/vwiesm)]
--  _Telegram: @vwiesm
+-  _Vk_:[https://vk.com/vwiesm]
+-  _Telegram_: @vwiesm
 
 # About me
 
