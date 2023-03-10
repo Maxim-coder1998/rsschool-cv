@@ -12,7 +12,7 @@ ___
 -  _Vk_:<https://vk.com/vwiesm>
 -  _Telegram_: @vwiesm
 
-__
+___
 
 # About me
 
