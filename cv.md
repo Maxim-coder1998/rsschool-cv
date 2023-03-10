@@ -3,11 +3,11 @@
 ### _Max Bondarenko_
 ___
 # My Photo
-![](E:/rs_school/rsschool-cv/photo.jpg)
+![my photo](E:/rs_school/rsschool-cv/photo.jpg)
 ___
 
 # My Contact
--  _Email_:maximilyan1998@gmail.com
+-  _Email_:<maximilyan1998@gmail.com>
 -  _Vk_:<https://vk.com/vwiesm>
 -  _Telegram_: @vwiesm
 
