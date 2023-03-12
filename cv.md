@@ -3,7 +3,7 @@
 ### _Max Bondarenko_
 ___
 # My Photo
-![](https://sun9-12.userapi.com/impf/c855428/v855428226/cf82b/b1-s3JXzE-o.jpg?size=1178x1472&quality=96&sign=3d61c5f5ff0f6314e07a3025e5eefe1f&type=album)
+![image info](./photo.jpg)
 
 ___
 
@@ -22,5 +22,5 @@ ___
 # My Skils
 - HTML & CSS
 - SQL
-
+ 
 
