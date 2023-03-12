@@ -1,6 +1,6 @@
 
 # My Name
-### _Max Bondarenko_
+## _Max Bondarenko_
 ___
 # My Photo
 ![image info](./photo.jpg)
