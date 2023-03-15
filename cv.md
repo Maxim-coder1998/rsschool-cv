@@ -1,6 +1,6 @@
 
 # My Name
-## _Max Bondarenko_
+### _Max Bondarenko_
 ___
 # My Photo
 ![image info](./photo.jpg)
@@ -11,6 +11,7 @@ ___
 -  _Email_:<maximilyan1998@gmail.com>
 -  _Vk_:<https://vk.com/vwiesm>
 -  _Telegram_: @vwiesm
+-  _Insagram_: @vwiesm
 
 ___
 
